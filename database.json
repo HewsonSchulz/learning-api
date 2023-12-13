@@ -372,11 +372,6 @@
       "postId": 9
     },
     {
-      "id": 10,
-      "userId": 1,
-      "postId": 8
-    },
-    {
       "id": 11,
       "userId": 8,
       "postId": 14
@@ -470,11 +465,6 @@
       "id": 29,
       "userId": 16,
       "postId": 11
-    },
-    {
-      "id": 30,
-      "userId": 1,
-      "postId": 17
     },
     {
       "id": 31,
